@@ -1,17 +1,23 @@
-### Hi there 👋
-### This is my personal github
-## In this Github has my hustle projects 
-<!--
-**VeerapatSintupong123/VeerapatSintupong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Project Title
 
-Here are some ideas to get you started:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg)](https://github.com/your-username/your-repo/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo.svg)](https://github.com/your-username/your-repo/issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Description
+
+A brief description of your project.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Provide step-by-step instructions on how to install your project, including any dependencies.
+
+```bash
+npm install
