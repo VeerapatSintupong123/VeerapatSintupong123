@@ -1,31 +1,19 @@
-👋 Hello World!
-I'm [Your GitHub Username], a passionate [Your Field/Industry] enthusiast. Welcome to my GitHub profile!
+# VeerapatSintupong123
 
-🚀 About Me
-I'm [Your Full Name], a dedicated professional with a knack for [Brief description of your expertise or focus]. My journey in the world of [Your Industry/Field] has been fueled by a relentless pursuit of knowledge and a love for solving complex problems.
+## 👋 Hello World!
 
-🔧 Skills
+I'm VeerapatSintupong123, a passionate developer and AI engineer enthusiast. Welcome to my GitHub profile!
+
+### 🚀 About Me
+
+My name is Weerapat Sinthupong and I focus on AI, web and app development. My expertise lies in creating intelligent solutions that bridge the gap between cutting-edge technology and real-world applications. Whether it's delving into the complexities of AI, creating responsive web interfaces, or developing a robust mobile application. I thrive on the challenges that come with creating innovative solutions.
+
+### 🔧 Skills
+
 Here are some of the skills in my toolbox:
 
-Languages: [List programming languages you're proficient in]
-Frameworks: [Specify any frameworks or libraries you frequently use]
-Tools: [Highlight any tools or software you work with]
-💼 Projects
-Explore some of my noteworthy projects:
-
-[Project Name 1] - Brief description and link (if public).
-[Project Name 2] - Brief description and link (if public).
-🎓 Education
-[Degree Earned] in [Your Major] from [University Name], [Year of Graduation]
-🌐 Connect with Me
-[LinkedIn](Your LinkedIn Profile Link)
-[Twitter](Your Twitter Profile Link)
-Feel free to connect and engage with me on social media!
-
-📈 GitHub Stats
-![Your GitHub stats](Your GitHub Stats Image Link)
-
-📫 Contact
-For professional inquiries or collaborations, reach out to me at [Your Email Address].
-
-Thanks for visiting! 🚀
+```python
+languages = ["Python", "JavaScript","C++", "HTML", "CSS", "Dart"]
+frameworks = ["TensorFlow", "Pytorch", "Django","Flutter", "Cypress"]
+tools = ["Visual Studio Code", "IntelliJ IDEA"]
+```
